@@ -1,0 +1,10 @@
+C:\Users\jpnic\OneDrive\Desktop\uni\segundo semestre\Metodologia y programacion estructurada\practica-casa\EvaluarEdades\obj\Debug\EvaluarEdades.csproj.AssemblyReference.cache
+C:\Users\jpnic\OneDrive\Desktop\uni\segundo semestre\Metodologia y programacion estructurada\practica-casa\EvaluarEdades\obj\Debug\EvaluarEdades.Form1.resources
+C:\Users\jpnic\OneDrive\Desktop\uni\segundo semestre\Metodologia y programacion estructurada\practica-casa\EvaluarEdades\obj\Debug\EvaluarEdades.Properties.Resources.resources
+C:\Users\jpnic\OneDrive\Desktop\uni\segundo semestre\Metodologia y programacion estructurada\practica-casa\EvaluarEdades\obj\Debug\EvaluarEdades.csproj.GenerateResource.cache
+C:\Users\jpnic\OneDrive\Desktop\uni\segundo semestre\Metodologia y programacion estructurada\practica-casa\EvaluarEdades\obj\Debug\EvaluarEdades.csproj.CoreCompileInputs.cache
+C:\Users\jpnic\OneDrive\Desktop\uni\segundo semestre\Metodologia y programacion estructurada\practica-casa\EvaluarEdades\bin\Debug\EvaluarEdades.exe.config
+C:\Users\jpnic\OneDrive\Desktop\uni\segundo semestre\Metodologia y programacion estructurada\practica-casa\EvaluarEdades\bin\Debug\EvaluarEdades.exe
+C:\Users\jpnic\OneDrive\Desktop\uni\segundo semestre\Metodologia y programacion estructurada\practica-casa\EvaluarEdades\bin\Debug\EvaluarEdades.pdb
+C:\Users\jpnic\OneDrive\Desktop\uni\segundo semestre\Metodologia y programacion estructurada\practica-casa\EvaluarEdades\obj\Debug\EvaluarEdades.exe
+C:\Users\jpnic\OneDrive\Desktop\uni\segundo semestre\Metodologia y programacion estructurada\practica-casa\EvaluarEdades\obj\Debug\EvaluarEdades.pdb

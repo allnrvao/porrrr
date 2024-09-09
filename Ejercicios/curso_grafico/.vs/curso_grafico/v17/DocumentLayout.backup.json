@@ -1,0 +1,44 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jpnic\\OneDrive\\Desktop\\uni\\segundo semestre\\Metodologia y programacion estructurada\\practica-casa\\curso_grafico\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{84F99AA1-11E2-4C6C-87B2-01EDFA4FD949}|curso_grafico\\curso_grafico.csproj|c:\\users\\jpnic\\onedrive\\desktop\\uni\\segundo semestre\\metodologia y programacion estructurada\\practica-casa\\curso_grafico\\curso_grafico\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{84F99AA1-11E2-4C6C-87B2-01EDFA4FD949}|curso_grafico\\curso_grafico.csproj|solutionrelative:curso_grafico\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\jpnic\\OneDrive\\Desktop\\uni\\segundo semestre\\Metodologia y programacion estructurada\\practica-casa\\curso_grafico\\curso_grafico\\Form1.cs",
+              "RelativeDocumentMoniker": "curso_grafico\\Form1.cs",
+              "ToolTip": "C:\\Users\\jpnic\\OneDrive\\Desktop\\uni\\segundo semestre\\Metodologia y programacion estructurada\\practica-casa\\curso_grafico\\curso_grafico\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "curso_grafico\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T01:26:14.173Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

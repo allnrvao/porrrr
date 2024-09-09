@@ -1,0 +1,10 @@
+C:\Users\jpnic\OneDrive\Desktop\uni\segundo semestre\Metodologia y programacion estructurada\practica-casa\Evaluar_Calificacion\obj\Debug\Evaluar_Calificacion.csproj.AssemblyReference.cache
+C:\Users\jpnic\OneDrive\Desktop\uni\segundo semestre\Metodologia y programacion estructurada\practica-casa\Evaluar_Calificacion\obj\Debug\Evaluar_Calificacion.Form1.resources
+C:\Users\jpnic\OneDrive\Desktop\uni\segundo semestre\Metodologia y programacion estructurada\practica-casa\Evaluar_Calificacion\obj\Debug\Evaluar_Calificacion.Properties.Resources.resources
+C:\Users\jpnic\OneDrive\Desktop\uni\segundo semestre\Metodologia y programacion estructurada\practica-casa\Evaluar_Calificacion\obj\Debug\Evaluar_Calificacion.csproj.GenerateResource.cache
+C:\Users\jpnic\OneDrive\Desktop\uni\segundo semestre\Metodologia y programacion estructurada\practica-casa\Evaluar_Calificacion\obj\Debug\Evaluar_Calificacion.csproj.CoreCompileInputs.cache
+C:\Users\jpnic\OneDrive\Desktop\uni\segundo semestre\Metodologia y programacion estructurada\practica-casa\Evaluar_Calificacion\bin\Debug\Evaluar_Calificacion.exe.config
+C:\Users\jpnic\OneDrive\Desktop\uni\segundo semestre\Metodologia y programacion estructurada\practica-casa\Evaluar_Calificacion\bin\Debug\Evaluar_Calificacion.exe
+C:\Users\jpnic\OneDrive\Desktop\uni\segundo semestre\Metodologia y programacion estructurada\practica-casa\Evaluar_Calificacion\bin\Debug\Evaluar_Calificacion.pdb
+C:\Users\jpnic\OneDrive\Desktop\uni\segundo semestre\Metodologia y programacion estructurada\practica-casa\Evaluar_Calificacion\obj\Debug\Evaluar_Calificacion.exe
+C:\Users\jpnic\OneDrive\Desktop\uni\segundo semestre\Metodologia y programacion estructurada\practica-casa\Evaluar_Calificacion\obj\Debug\Evaluar_Calificacion.pdb

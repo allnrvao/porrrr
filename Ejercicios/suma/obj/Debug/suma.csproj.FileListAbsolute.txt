@@ -1,0 +1,10 @@
+C:\Users\jpnic\OneDrive\Desktop\uni\segundo semestre\Metodologia y programacion estructurada\practica-casa\suma\bin\Debug\suma.exe.config
+C:\Users\jpnic\OneDrive\Desktop\uni\segundo semestre\Metodologia y programacion estructurada\practica-casa\suma\bin\Debug\suma.exe
+C:\Users\jpnic\OneDrive\Desktop\uni\segundo semestre\Metodologia y programacion estructurada\practica-casa\suma\bin\Debug\suma.pdb
+C:\Users\jpnic\OneDrive\Desktop\uni\segundo semestre\Metodologia y programacion estructurada\practica-casa\suma\obj\Debug\suma.csproj.AssemblyReference.cache
+C:\Users\jpnic\OneDrive\Desktop\uni\segundo semestre\Metodologia y programacion estructurada\practica-casa\suma\obj\Debug\suma.suma.resources
+C:\Users\jpnic\OneDrive\Desktop\uni\segundo semestre\Metodologia y programacion estructurada\practica-casa\suma\obj\Debug\suma.Properties.Resources.resources
+C:\Users\jpnic\OneDrive\Desktop\uni\segundo semestre\Metodologia y programacion estructurada\practica-casa\suma\obj\Debug\suma.csproj.GenerateResource.cache
+C:\Users\jpnic\OneDrive\Desktop\uni\segundo semestre\Metodologia y programacion estructurada\practica-casa\suma\obj\Debug\suma.csproj.CoreCompileInputs.cache
+C:\Users\jpnic\OneDrive\Desktop\uni\segundo semestre\Metodologia y programacion estructurada\practica-casa\suma\obj\Debug\suma.exe
+C:\Users\jpnic\OneDrive\Desktop\uni\segundo semestre\Metodologia y programacion estructurada\practica-casa\suma\obj\Debug\suma.pdb

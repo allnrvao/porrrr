@@ -1,0 +1,14 @@
+C:\Users\jpnic\OneDrive\Desktop\uni\segundo semestre\Metodologia y programacion estructurada\practica-casa\fundamentos\bin\Debug\net8.0\fundamentos.exe
+C:\Users\jpnic\OneDrive\Desktop\uni\segundo semestre\Metodologia y programacion estructurada\practica-casa\fundamentos\bin\Debug\net8.0\fundamentos.deps.json
+C:\Users\jpnic\OneDrive\Desktop\uni\segundo semestre\Metodologia y programacion estructurada\practica-casa\fundamentos\bin\Debug\net8.0\fundamentos.runtimeconfig.json
+C:\Users\jpnic\OneDrive\Desktop\uni\segundo semestre\Metodologia y programacion estructurada\practica-casa\fundamentos\bin\Debug\net8.0\fundamentos.dll
+C:\Users\jpnic\OneDrive\Desktop\uni\segundo semestre\Metodologia y programacion estructurada\practica-casa\fundamentos\bin\Debug\net8.0\fundamentos.pdb
+C:\Users\jpnic\OneDrive\Desktop\uni\segundo semestre\Metodologia y programacion estructurada\practica-casa\fundamentos\obj\Debug\net8.0\fundamentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jpnic\OneDrive\Desktop\uni\segundo semestre\Metodologia y programacion estructurada\practica-casa\fundamentos\obj\Debug\net8.0\fundamentos.AssemblyInfoInputs.cache
+C:\Users\jpnic\OneDrive\Desktop\uni\segundo semestre\Metodologia y programacion estructurada\practica-casa\fundamentos\obj\Debug\net8.0\fundamentos.AssemblyInfo.cs
+C:\Users\jpnic\OneDrive\Desktop\uni\segundo semestre\Metodologia y programacion estructurada\practica-casa\fundamentos\obj\Debug\net8.0\fundamentos.csproj.CoreCompileInputs.cache
+C:\Users\jpnic\OneDrive\Desktop\uni\segundo semestre\Metodologia y programacion estructurada\practica-casa\fundamentos\obj\Debug\net8.0\fundamentos.dll
+C:\Users\jpnic\OneDrive\Desktop\uni\segundo semestre\Metodologia y programacion estructurada\practica-casa\fundamentos\obj\Debug\net8.0\refint\fundamentos.dll
+C:\Users\jpnic\OneDrive\Desktop\uni\segundo semestre\Metodologia y programacion estructurada\practica-casa\fundamentos\obj\Debug\net8.0\fundamentos.pdb
+C:\Users\jpnic\OneDrive\Desktop\uni\segundo semestre\Metodologia y programacion estructurada\practica-casa\fundamentos\obj\Debug\net8.0\fundamentos.genruntimeconfig.cache
+C:\Users\jpnic\OneDrive\Desktop\uni\segundo semestre\Metodologia y programacion estructurada\practica-casa\fundamentos\obj\Debug\net8.0\ref\fundamentos.dll

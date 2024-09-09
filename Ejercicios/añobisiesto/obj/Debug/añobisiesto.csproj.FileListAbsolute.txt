@@ -1,0 +1,10 @@
+C:\Users\jpnic\OneDrive\Desktop\uni\segundo semestre\Metodologia y programacion estructurada\practica-casa\añobisiesto\bin\Debug\añobisiesto.exe.config
+C:\Users\jpnic\OneDrive\Desktop\uni\segundo semestre\Metodologia y programacion estructurada\practica-casa\añobisiesto\bin\Debug\añobisiesto.exe
+C:\Users\jpnic\OneDrive\Desktop\uni\segundo semestre\Metodologia y programacion estructurada\practica-casa\añobisiesto\bin\Debug\añobisiesto.pdb
+C:\Users\jpnic\OneDrive\Desktop\uni\segundo semestre\Metodologia y programacion estructurada\practica-casa\añobisiesto\obj\Debug\añobisiesto.csproj.AssemblyReference.cache
+C:\Users\jpnic\OneDrive\Desktop\uni\segundo semestre\Metodologia y programacion estructurada\practica-casa\añobisiesto\obj\Debug\añobisiesto.Form1.resources
+C:\Users\jpnic\OneDrive\Desktop\uni\segundo semestre\Metodologia y programacion estructurada\practica-casa\añobisiesto\obj\Debug\añobisiesto.Properties.Resources.resources
+C:\Users\jpnic\OneDrive\Desktop\uni\segundo semestre\Metodologia y programacion estructurada\practica-casa\añobisiesto\obj\Debug\añobisiesto.csproj.GenerateResource.cache
+C:\Users\jpnic\OneDrive\Desktop\uni\segundo semestre\Metodologia y programacion estructurada\practica-casa\añobisiesto\obj\Debug\añobisiesto.csproj.CoreCompileInputs.cache
+C:\Users\jpnic\OneDrive\Desktop\uni\segundo semestre\Metodologia y programacion estructurada\practica-casa\añobisiesto\obj\Debug\añobisiesto.exe
+C:\Users\jpnic\OneDrive\Desktop\uni\segundo semestre\Metodologia y programacion estructurada\practica-casa\añobisiesto\obj\Debug\añobisiesto.pdb

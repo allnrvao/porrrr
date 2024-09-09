@@ -1,0 +1,14 @@
+C:\Users\jpnic\OneDrive\Desktop\uni\segundo semestre\Metodologia y programacion estructurada\practica-casa\prueba1\bin\Debug\net8.0\prueba1.exe
+C:\Users\jpnic\OneDrive\Desktop\uni\segundo semestre\Metodologia y programacion estructurada\practica-casa\prueba1\bin\Debug\net8.0\prueba1.deps.json
+C:\Users\jpnic\OneDrive\Desktop\uni\segundo semestre\Metodologia y programacion estructurada\practica-casa\prueba1\bin\Debug\net8.0\prueba1.runtimeconfig.json
+C:\Users\jpnic\OneDrive\Desktop\uni\segundo semestre\Metodologia y programacion estructurada\practica-casa\prueba1\bin\Debug\net8.0\prueba1.dll
+C:\Users\jpnic\OneDrive\Desktop\uni\segundo semestre\Metodologia y programacion estructurada\practica-casa\prueba1\bin\Debug\net8.0\prueba1.pdb
+C:\Users\jpnic\OneDrive\Desktop\uni\segundo semestre\Metodologia y programacion estructurada\practica-casa\prueba1\obj\Debug\net8.0\prueba1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jpnic\OneDrive\Desktop\uni\segundo semestre\Metodologia y programacion estructurada\practica-casa\prueba1\obj\Debug\net8.0\prueba1.AssemblyInfoInputs.cache
+C:\Users\jpnic\OneDrive\Desktop\uni\segundo semestre\Metodologia y programacion estructurada\practica-casa\prueba1\obj\Debug\net8.0\prueba1.AssemblyInfo.cs
+C:\Users\jpnic\OneDrive\Desktop\uni\segundo semestre\Metodologia y programacion estructurada\practica-casa\prueba1\obj\Debug\net8.0\prueba1.csproj.CoreCompileInputs.cache
+C:\Users\jpnic\OneDrive\Desktop\uni\segundo semestre\Metodologia y programacion estructurada\practica-casa\prueba1\obj\Debug\net8.0\prueba1.dll
+C:\Users\jpnic\OneDrive\Desktop\uni\segundo semestre\Metodologia y programacion estructurada\practica-casa\prueba1\obj\Debug\net8.0\refint\prueba1.dll
+C:\Users\jpnic\OneDrive\Desktop\uni\segundo semestre\Metodologia y programacion estructurada\practica-casa\prueba1\obj\Debug\net8.0\prueba1.pdb
+C:\Users\jpnic\OneDrive\Desktop\uni\segundo semestre\Metodologia y programacion estructurada\practica-casa\prueba1\obj\Debug\net8.0\prueba1.genruntimeconfig.cache
+C:\Users\jpnic\OneDrive\Desktop\uni\segundo semestre\Metodologia y programacion estructurada\practica-casa\prueba1\obj\Debug\net8.0\ref\prueba1.dll
